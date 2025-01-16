@@ -10,7 +10,7 @@ if (!THREE) {
             try {
                 const mindarThree = new window.MINDAR.IMAGE.MindARThree({
                     container: document.body,
-                    imageTargetSrc: './applications/assets/targets/musicband.mind',
+                    imageTargetSrc: './applications/assets/targets/Wish.mind',
                 });
 
                 const { renderer, scene, camera } = mindarThree;
