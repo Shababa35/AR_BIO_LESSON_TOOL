@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chem_Ionic_Network
+* source:	https://sketchfab.com/3d-models/chem-ionic-network-0e6de58b339e45d494a82191a3a17eae
+* author:	joh.mackell (https://sketchfab.com/joh.mackell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chem_Ionic_Network" (https://sketchfab.com/3d-models/chem-ionic-network-0e6de58b339e45d494a82191a3a17eae) by joh.mackell (https://sketchfab.com/joh.mackell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

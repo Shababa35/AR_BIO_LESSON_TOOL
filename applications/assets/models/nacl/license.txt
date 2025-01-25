@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maille éclatée du NaCl
+* source:	https://sketchfab.com/3d-models/maille-eclatee-du-nacl-8ea9ca05e70f4a548f65b51073be57c4
+* author:	jvouillon (https://sketchfab.com/jvouillon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maille éclatée du NaCl" (https://sketchfab.com/3d-models/maille-eclatee-du-nacl-8ea9ca05e70f4a548f65b51073be57c4) by jvouillon (https://sketchfab.com/jvouillon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
